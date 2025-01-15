@@ -1,4 +1,3 @@
-import React from 'react';
 import { Card, CardContent, CircularProgress, Typography , Box } from '@mui/material';
 import { useTotalViews } from '../../hooks/useDashboard';
 import { Visibility } from '@mui/icons-material';

@@ -1,4 +1,3 @@
-import React from 'react';
 import {Card, CardContent, CircularProgress, Typography , Box} from '@mui/material';
 import { useMostActiveAuthors } from '../../hooks/useDashboard';
 import { Period } from '../../types/types';

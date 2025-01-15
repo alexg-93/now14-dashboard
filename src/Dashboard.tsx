@@ -1,4 +1,3 @@
-import React from 'react';
 import { MostViewedArticles } from './components/Dashboard/MostViewedArticles';
 import { Container, Grid2 as Grid ,Typography} from '@mui/material';
 import { TotalViews } from './components/Dashboard/TotalViews';

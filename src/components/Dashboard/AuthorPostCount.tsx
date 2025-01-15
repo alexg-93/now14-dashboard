@@ -1,4 +1,3 @@
-import React from 'react';
 import { useAuthorsWithPostsToday } from '../../hooks/useDashboard';
 import {
   CircularProgress,

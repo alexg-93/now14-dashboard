@@ -1,4 +1,3 @@
-import React from 'react';
 import { useMostCommentedArticles } from '../../hooks/useDashboard';
 import {
   Table,
